@@ -1,1 +1,2 @@
-#Hi Rajesh, how is Git training?
+#Hi Rajesh, how is Git training?. 
+Yes it is going good
